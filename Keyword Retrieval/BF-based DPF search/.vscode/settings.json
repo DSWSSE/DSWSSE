@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bloom_filter.h": "c",
+        "rand.h": "c",
+        "math.h": "c",
+        "cstddef": "c"
+    }
+}

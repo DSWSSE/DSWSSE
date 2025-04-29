@@ -1,0 +1,30 @@
+11607:C 05 Sep 2024 16:59:17.288 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+11607:C 05 Sep 2024 16:59:17.288 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+11607:C 05 Sep 2024 16:59:17.288 * Redis version=7.4.0, bits=64, commit=00000000, modified=0, pid=11607, just started
+11607:C 05 Sep 2024 16:59:17.288 * Configuration loaded
+11607:M 05 Sep 2024 16:59:17.289 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+11607:M 05 Sep 2024 16:59:17.289 * monotonic clock: POSIX clock_gettime
+11607:M 05 Sep 2024 16:59:17.291 # Failed to write PID file: Permission denied
+11607:M 05 Sep 2024 16:59:17.291 * Running mode=standalone, port=6379.
+11607:M 05 Sep 2024 16:59:17.291 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+11607:M 05 Sep 2024 16:59:17.291 # Failed listening on port 6379 (tcp), aborting.
+15515:C 05 Sep 2024 20:50:38.868 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+15515:C 05 Sep 2024 20:50:38.870 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15515:C 05 Sep 2024 20:50:38.870 * Redis version=7.4.0, bits=64, commit=00000000, modified=0, pid=15515, just started
+15515:C 05 Sep 2024 20:50:38.870 * Configuration loaded
+15515:M 05 Sep 2024 20:50:38.877 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+15515:M 05 Sep 2024 20:50:38.877 * monotonic clock: POSIX clock_gettime
+15515:M 05 Sep 2024 20:50:38.880 # Failed to write PID file: Permission denied
+15515:M 05 Sep 2024 20:50:38.880 * Running mode=standalone, port=6379.
+15515:M 05 Sep 2024 20:50:38.881 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+15515:M 05 Sep 2024 20:50:38.881 # Failed listening on port 6379 (tcp), aborting.
+383097:C 11 Nov 2024 11:04:37.923 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+383097:C 11 Nov 2024 11:04:37.924 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+383097:C 11 Nov 2024 11:04:37.924 * Redis version=7.4.0, bits=64, commit=00000000, modified=0, pid=383097, just started
+383097:C 11 Nov 2024 11:04:37.925 * Configuration loaded
+383097:M 11 Nov 2024 11:04:37.927 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+383097:M 11 Nov 2024 11:04:37.927 * monotonic clock: POSIX clock_gettime
+383097:M 11 Nov 2024 11:04:37.934 # Failed to write PID file: Permission denied
+383097:M 11 Nov 2024 11:04:37.935 * Running mode=standalone, port=6379.
+383097:M 11 Nov 2024 11:04:37.935 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+383097:M 11 Nov 2024 11:04:37.936 # Failed listening on port 6379 (tcp), aborting.

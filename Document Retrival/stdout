@@ -1,0 +1,20 @@
+287319:C 10 Nov 2024 15:25:37.983 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+287319:C 10 Nov 2024 15:25:37.992 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+287319:C 10 Nov 2024 15:25:37.992 * Redis version=7.4.0, bits=64, commit=00000000, modified=0, pid=287319, just started
+287319:C 10 Nov 2024 15:25:37.992 * Configuration loaded
+287319:M 10 Nov 2024 15:25:37.997 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+287319:M 10 Nov 2024 15:25:37.997 * monotonic clock: POSIX clock_gettime
+287319:M 10 Nov 2024 15:25:38.005 # Failed to write PID file: Permission denied
+287319:M 10 Nov 2024 15:25:38.005 * Running mode=standalone, port=6379.
+287319:M 10 Nov 2024 15:25:38.008 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+287319:M 10 Nov 2024 15:25:38.008 # Failed listening on port 6379 (tcp), aborting.
+287990:C 10 Nov 2024 15:28:08.172 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+287990:C 10 Nov 2024 15:28:08.173 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+287990:C 10 Nov 2024 15:28:08.173 * Redis version=7.4.0, bits=64, commit=00000000, modified=0, pid=287990, just started
+287990:C 10 Nov 2024 15:28:08.174 * Configuration loaded
+287990:M 10 Nov 2024 15:28:08.176 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+287990:M 10 Nov 2024 15:28:08.176 * monotonic clock: POSIX clock_gettime
+287990:M 10 Nov 2024 15:28:08.183 # Failed to write PID file: Permission denied
+287990:M 10 Nov 2024 15:28:08.183 * Running mode=standalone, port=6379.
+287990:M 10 Nov 2024 15:28:08.183 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+287990:M 10 Nov 2024 15:28:08.183 # Failed listening on port 6379 (tcp), aborting.
